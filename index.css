@@ -185,7 +185,7 @@ text-decoration: none ;
     transition: .5s ease
 }
 .social-iconsv a i{
-    color: #000000;
+    color: #fff;
     font-size: 32px;
     margin-left: 10px;
     cursor: pointer;
